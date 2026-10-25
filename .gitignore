@@ -1,0 +1,6 @@
+.venv/
+.idea/
+.env
+chroma_db/
+__pycache__/
+.ipynb_checkpoints/
